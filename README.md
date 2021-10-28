@@ -1,4 +1,4 @@
-# Applying "app-template" on [iotxxx-nrf52832dk](http://doc.iotxx.com/NRF52832DK) 
+# Applying knurling-rs "app-template" on [iotxxx-nrf52832dk](http://doc.iotxx.com/NRF52832DK) 
 
 - hardware
     - NRF52832DK
