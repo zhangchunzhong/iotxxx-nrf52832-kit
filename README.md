@@ -1,4 +1,20 @@
-# `app-template`
+# `applying "app-template" on http://doc.iotxx.com/NRF52832DK`
+
+- hardware
+    - NRF52832DK
+    - Jlink-lite
+
+```console
+➜  e73bt git:(main) ✗ cargo rb hello
+    Finished dev [optimized + debuginfo] target(s) in 0.01s
+     Running `probe-run --chip nRF52832_xxAA target/thumbv7em-none-eabihf/debug/hello`
+(HOST) INFO  flashing program (6.78 KiB)
+(HOST) INFO  success!
+────────────────────────────────────────────────────────────────────────────────
+0 INFO  Hello, world!
+└─ hello::__cortex_m_rt_main @ src/bin/hello.rs:8
+────────────────────────────────────────────────────────────────────────────────
+```
 
 > Quickly set up a [`probe-run`] + [`defmt`] + [`flip-link`] embedded project
 
