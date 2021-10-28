@@ -24,4 +24,4 @@
 
 # reference
 - https://github.com/knurling-rs/app-template
-
+- https://github.com/rtic-rs/defmt-app-template
