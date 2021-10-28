@@ -1,4 +1,4 @@
-# `applying "app-template" on http://doc.iotxx.com/NRF52832DK`
+# applying "app-template" on [iotxxx-nrf52832dk](http://doc.iotxx.com/NRF52832DK) 
 
 - hardware
     - NRF52832DK
