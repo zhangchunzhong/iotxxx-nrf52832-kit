@@ -1,6 +1,6 @@
 # Applying knurling-rs "app-template" on [iotxxx-nrf52832dk](http://doc.iotxx.com/NRF52832DK) 
 
-- hardware
+- Hardware
     - NRF52832DK
     - Jlink-lite
 
