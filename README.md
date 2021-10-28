@@ -4,6 +4,9 @@
     - NRF52832DK
     - Jlink-lite
 
+![image](https://user-images.githubusercontent.com/35317930/139210322-1b999e2b-e52e-4253-aeb4-e83ac885b45d.png)
+
+
 ```console
 ➜  e73bt git:(main) ✗ cargo rb hello
     Finished dev [optimized + debuginfo] target(s) in 0.01s
